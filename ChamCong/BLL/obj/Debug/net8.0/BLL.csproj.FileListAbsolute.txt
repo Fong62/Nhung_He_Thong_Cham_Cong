@@ -1,0 +1,45 @@
+C:\Users\Admin\Desktop\ChamCong\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\Admin\Desktop\ChamCong\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\Admin\Desktop\ChamCong\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\Admin\Desktop\ChamCong\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\Admin\Desktop\ChamCong\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Admin\Desktop\ChamCong\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ChamCong\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ChamCong\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ChamCong\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ChamCong\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ChamCong\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\Admin\Desktop\ChamCong\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\Admin\Desktop\ChamCong\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\Admin\Desktop\ChamCong\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\Admin\Desktop\ChamCong\BLL\obj\Debug\net8.0\ref\BLL.dll
+D:\MY WORK\ChamCong\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\MY WORK\ChamCong\BLL\bin\Debug\net8.0\BLL.dll
+D:\MY WORK\ChamCong\BLL\bin\Debug\net8.0\BLL.pdb
+D:\MY WORK\ChamCong\BLL\bin\Debug\net8.0\DAL.dll
+D:\MY WORK\ChamCong\BLL\bin\Debug\net8.0\DAL.pdb
+D:\MY WORK\ChamCong\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+D:\MY WORK\ChamCong\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY WORK\ChamCong\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\MY WORK\ChamCong\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\MY WORK\ChamCong\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\MY WORK\ChamCong\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+D:\MY WORK\ChamCong\BLL\obj\Debug\net8.0\BLL.dll
+D:\MY WORK\ChamCong\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\MY WORK\ChamCong\BLL\obj\Debug\net8.0\BLL.pdb
+D:\MY WORK\ChamCong\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\Admin\Desktop\IOT\ChamCong\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\Admin\Desktop\IOT\ChamCong\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Admin\Desktop\IOT\ChamCong\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\IOT\ChamCong\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\IOT\ChamCong\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\IOT\ChamCong\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\Admin\Desktop\IOT\ChamCong\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\IOT\ChamCong\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\Admin\Desktop\IOT\ChamCong\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\Admin\Desktop\IOT\ChamCong\BLL\obj\Debug\net8.0\ref\BLL.dll

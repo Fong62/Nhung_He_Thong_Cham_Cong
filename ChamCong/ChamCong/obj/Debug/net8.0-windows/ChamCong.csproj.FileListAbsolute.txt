@@ -1,0 +1,225 @@
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\ChamCong.exe
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\ChamCong.deps.json
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\ChamCong.runtimeconfig.json
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\ChamCong.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\ChamCong.pdb
+D:\MY WORK\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.DangKy.resources
+D:\MY WORK\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.FormMain.resources
+D:\MY WORK\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.csproj.GenerateResource.cache
+D:\MY WORK\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY WORK\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.AssemblyInfoInputs.cache
+D:\MY WORK\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.AssemblyInfo.cs
+D:\MY WORK\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.csproj.CoreCompileInputs.cache
+D:\MY WORK\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.dll
+D:\MY WORK\ChamCong\ChamCong\obj\Debug\net8.0-windows\refint\ChamCong.dll
+D:\MY WORK\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.pdb
+D:\MY WORK\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.genruntimeconfig.cache
+D:\MY WORK\ChamCong\ChamCong\obj\Debug\net8.0-windows\ref\ChamCong.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\obj\Debug\net8.0-windows\refint\ChamCong.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.pdb
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\ChamCong.exe
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\ChamCong.deps.json
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\ChamCong.runtimeconfig.json
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\ChamCong.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\ChamCong.pdb
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\BLL.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\DAL.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\BLL.pdb
+C:\Users\Admin\Desktop\ChamCong\ChamCong\bin\Debug\net8.0-windows\DAL.pdb
+C:\Users\Admin\Desktop\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.ChamCong.resources
+C:\Users\Admin\Desktop\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.DangKy.resources
+C:\Users\Admin\Desktop\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.DangNhap.resources
+C:\Users\Admin\Desktop\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.FormMain.resources
+C:\Users\Admin\Desktop\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.csproj.Up2Date
+C:\Users\Admin\Desktop\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ChamCong\ChamCong\obj\Debug\net8.0-windows\ref\ChamCong.dll
+C:\Users\Admin\Desktop\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.ThongKe.resources
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\EPPlus.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\BLL.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\DAL.dll
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\BLL.pdb
+D:\MY WORK\ChamCong\ChamCong\bin\Debug\net8.0-windows\DAL.pdb
+D:\MY WORK\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.csproj.AssemblyReference.cache
+D:\MY WORK\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.ChamCong.resources
+D:\MY WORK\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.DangNhap.resources
+D:\MY WORK\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.ThongKe.resources
+D:\MY WORK\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.csproj.Up2Date
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\ChamCong.exe
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\ChamCong.deps.json
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\ChamCong.runtimeconfig.json
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\ChamCong.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\ChamCong.pdb
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\BLL.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\DAL.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\BLL.pdb
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\bin\Debug\net8.0-windows\DAL.pdb
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.ChamCong.resources
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.DangKy.resources
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.DangNhap.resources
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.FormMain.resources
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.ThongKe.resources
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.AssemblyInfo.cs
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.csproj.Up2Date
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\obj\Debug\net8.0-windows\refint\ChamCong.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.pdb
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\obj\Debug\net8.0-windows\ChamCong.genruntimeconfig.cache
+C:\Users\Admin\Desktop\IOT\ChamCong\ChamCong\obj\Debug\net8.0-windows\ref\ChamCong.dll

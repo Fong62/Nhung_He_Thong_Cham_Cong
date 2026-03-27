@@ -1,0 +1,48 @@
+D:\TeraBoxDownload\QLINTERNET\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\TeraBoxDownload\QLINTERNET\DAL\bin\Debug\net8.0\DAL.dll
+D:\TeraBoxDownload\QLINTERNET\DAL\bin\Debug\net8.0\DAL.pdb
+D:\TeraBoxDownload\QLINTERNET\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\TeraBoxDownload\QLINTERNET\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\TeraBoxDownload\QLINTERNET\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\TeraBoxDownload\QLINTERNET\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\TeraBoxDownload\QLINTERNET\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\TeraBoxDownload\QLINTERNET\DAL\obj\Debug\net8.0\DAL.dll
+D:\TeraBoxDownload\QLINTERNET\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\TeraBoxDownload\QLINTERNET\DAL\obj\Debug\net8.0\DAL.pdb
+D:\TeraBoxDownload\QLINTERNET\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Admin\Desktop\ChamCong\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Admin\Desktop\ChamCong\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Admin\Desktop\ChamCong\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Admin\Desktop\ChamCong\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ChamCong\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ChamCong\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ChamCong\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ChamCong\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ChamCong\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Admin\Desktop\ChamCong\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Admin\Desktop\ChamCong\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Admin\Desktop\ChamCong\DAL\obj\Debug\net8.0\ref\DAL.dll
+D:\MY WORK\ChamCong\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\MY WORK\ChamCong\DAL\bin\Debug\net8.0\DAL.dll
+D:\MY WORK\ChamCong\DAL\bin\Debug\net8.0\DAL.pdb
+D:\MY WORK\ChamCong\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\MY WORK\ChamCong\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY WORK\ChamCong\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\MY WORK\ChamCong\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\MY WORK\ChamCong\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\MY WORK\ChamCong\DAL\obj\Debug\net8.0\DAL.dll
+D:\MY WORK\ChamCong\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\MY WORK\ChamCong\DAL\obj\Debug\net8.0\DAL.pdb
+D:\MY WORK\ChamCong\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Admin\Desktop\IOT\ChamCong\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Admin\Desktop\IOT\ChamCong\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\IOT\ChamCong\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\IOT\ChamCong\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\IOT\ChamCong\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Admin\Desktop\IOT\ChamCong\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\IOT\ChamCong\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Admin\Desktop\IOT\ChamCong\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Admin\Desktop\IOT\ChamCong\DAL\obj\Debug\net8.0\ref\DAL.dll
